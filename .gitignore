@@ -1,0 +1,11 @@
+# output directory
+output
+
+# intellij idea files
+.idea
+
+# target directory
+target
+
+# logs directory
+logs
